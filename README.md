@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [3 Column Preview Card By Earthyy]()
+- Live Site URL: [3 Column Preview Card By Earthyy](https://earthyy-3-column-preview-card.netlify.app/)
 
 ## My process
 
